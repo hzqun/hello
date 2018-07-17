@@ -1,0 +1,20 @@
+html{
+    font-family: "Microsoft YaHei", sans-serif, Verdana;
+}
+body{
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+p{
+    line-height: 1.5;
+    margin: 25px 0;
+}
+.msg,
+.tec {
+    float: left;
+    padding: 0px 40px 0px 0px;
+}
+.clearfix {
+    clear: both;
+}

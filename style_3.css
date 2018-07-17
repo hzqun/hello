@@ -1,0 +1,51 @@
+html{
+    font-family: "Microsoft YaHei", sans-serif, Verdana;
+}
+body{
+    width: 90%;
+    max-width: 900px;
+    margin: 0;
+}
+.one{
+    width: 900px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+h1{
+    margin-left: 20px;
+}
+.part{
+    width: 900px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+}
+.part h2{
+    background-color: silver;
+    text-align: center;
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 0;
+    font-size: 16px;
+    line-height: 100px;
+}
+.msg,
+.tec {
+    float: left;
+    padding: 0px 40px 0px 0px;
+}
+.des p{
+    float: left;
+    padding: 0 1px 0 0;
+}
+.dex p{
+    float: left;
+    padding: 0 1px 0 0;
+}
+.clearfix {
+    clear: both;
+}
